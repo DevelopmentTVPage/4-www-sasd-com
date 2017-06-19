@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "sdsds"
+baseURL = "https:\/\/www.sasd.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758403"
+subfolder = ""
