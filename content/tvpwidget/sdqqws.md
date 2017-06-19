@@ -10,6 +10,6 @@
     "type": "solo",
     "title": "sdqqws",
     "name": "sdqqws",
-    "channelId": "85434981",
+    "channelId": "96162569",
     "layout": "bootstrap"
 }
